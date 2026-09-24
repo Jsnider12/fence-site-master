@@ -2,3 +2,6 @@
 /* Standard Fence prospect brand treatment */
 :root{--ink:#102b4e;--forest:#123f70;--cream:#f3f7fb;--gold:#2d72b8;--muted:#617184}
 .demo{background:#2d72b8;color:#fff}.hero{background:#102b4e}.eyebrow{color:#8fc4f2}.brown{color:#2d72b8}.hero h1 em{color:#75b5eb}.gold{background:#2d72b8!important;color:#fff!important}.service-area{background:#123f70}.work{background:#123f70}.quote-section{background:#0b2744}.area-tags span{border-color:#75a3cc}.brand>span{border-color:#2d72b8}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline-color:#2d72b8}
+
+/* Standard Fence red accent from existing vehicle branding */
+:root{--brand-red:#b5252b}.demo{border-bottom:3px solid var(--brand-red)}.brand>span{border-color:var(--brand-red)}.proof i{background:var(--brand-red)}.cards article>span,.steps b{color:var(--brand-red)}.quote>span{color:var(--brand-red)}
